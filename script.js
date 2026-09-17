@@ -1,7 +1,7 @@
 const articles = [
   {
     title: "Existe um planeta onde pode chover vidro de lado",
-    category: "Espaço",
+    category: "Mundo",
     readingTime: "3 min de leitura",
     description: "Os ventos em um mundo distante são tão intensos que transformam partículas de silicato em uma tempestade extraordinária.",
     image: "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=900&q=80",
@@ -27,7 +27,7 @@ const articles = [
   },
   {
     title: "A floresta que parece conversar por baixo da terra",
-    category: "Natureza",
+    category: "Mundo",
     readingTime: "4 min de leitura",
     description: "Fungos conectam raízes e ajudam árvores a trocar sinais e recursos no subsolo.",
     image: "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=900&q=80",
@@ -45,7 +45,7 @@ const articles = [
     category: "Mundo",
     readingTime: "3 min de leitura",
     description: "Uma câmara especial absorve quase todo som externo e muda completamente a experiência de escutar.",
-    image: "https://images.unsplash.com/photo-1519608487953-e999c86e7450?auto=format&fit=crop&w=900&q=80",
+    image: "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=900&q=80",
     popular: true,
   },
   {
@@ -57,7 +57,7 @@ const articles = [
   },
   {
     title: "Há mais árvores na Terra do que estrelas na nossa galáxia",
-    category: "Natureza",
+    category: "Mundo",
     readingTime: "3 min de leitura",
     description: "Uma comparação que ajuda a imaginar a escala impressionante da vida no planeta.",
     image: "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=900&q=80",
